@@ -1,0 +1,92 @@
+
+.dsbody{
+    background-color: #ddc5ad;
+}
+.dsrsimg{
+    width: 80%;
+    margin: 1%;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.dsrsimg div{
+    flex-basis: 30%;
+    position: relative;
+    
+    margin: 3%;
+    box-sizing: border-box;
+}
+.dsrsimg div img{
+    width: 100%;
+    border-radius: 10px;
+    display: block;
+    width: 230;
+    height: 300;
+}
+.dsrsimg div p{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(36, 36, 36);
+
+}
+h3{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 400;
+    color: rgb(36, 36, 36);
+}
+legend{
+    font-size: 40px;
+    font-weight: 500;
+    color: rgb(36, 36, 36);
+}
+fieldset{
+    border-radius: 15px;
+    box-shadow: rgba(172, 172, 172, 0.466);
+    margin: 1%;
+
+}
+.qrows{
+    display: flex;
+    justify-content: center;
+}
+.qcols{
+    flex-basis: 31%;
+    
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.block {
+    
+    width: 50%;
+    background-color: #ddad63;
+    border-radius: 5px;
+    padding: 14px 28px;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  textarea{
+    border: none;
+    border-radius: 5px;
+    color: #400d0c;
+    text-align: center;
+
+}
+select{
+    width: 200px;
+    height: 100px;
+    
+}
+select option{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Lora', serif;
+}
+/* ------------------------------------ class yesterday ------------------------------*/
+
